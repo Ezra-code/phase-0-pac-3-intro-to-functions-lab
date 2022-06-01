@@ -21,8 +21,3 @@ function sayHiToHeadphonedRoommate(string){
         return "I would love to!"
     
 }
-// function  sayHiToHeadphonedRoommate(string){
-//     if(string.toUpperCase()){
-//         return "YES INDEED!"
-//     }
-// }
